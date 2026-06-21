@@ -19,12 +19,22 @@ A local web-based tool for organizing manga scans — split double-page spreads,
 
 ## 🖥 Requirements
 
-- Python 3.8+
 - Windows / macOS / Linux
+- Python 3.8+ (only if running from source)
 
 ---
 
-## ⚙ Installation & Usage
+## 💾 Download (Windows)
+
+No installation needed — just download and run!
+
+👉 **[Download manga_organizer.exe from Releases](../../releases/latest)**
+
+A browser window will open automatically at `http://localhost:7777`.
+
+---
+
+## ⚙ Installation & Usage (from source)
 
 **1. Install libraries** (optional — basic features work without them)
 
